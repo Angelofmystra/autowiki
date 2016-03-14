@@ -18,8 +18,8 @@ You will need to copy the python scripts to the appropriate directory. The pytho
 
 ## Authors
 
-Tauk
-Yaoquizque
+- Tauk
+- Yaoquizque
 
 ## Task list
 - [x] Generate outline for all mechanics to be addressed
