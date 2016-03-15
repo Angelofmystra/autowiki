@@ -23,6 +23,7 @@ You will need to copy the python scripts to the appropriate directory. The pytho
 
 ## Task list
 - [x] Generate outline for all mechanics to be addressed
+- [x] Example HTMLs to show different possibilities
 - [ ] Generate code for parsing the entire file directory (relevant folders)
 - [ ] Generate code to simplify getting dowpro test data (so as to avoid copy pasting scripts)
 - [ ] Generate HTML for buildings
